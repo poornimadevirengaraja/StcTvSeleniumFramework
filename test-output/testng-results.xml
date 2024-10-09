@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-09T04:54:32 GST" name="Suite" finished-at="2024-10-09T04:56:25 GST" duration-ms="113741">
+    <groups>
+    </groups>
+    <test started-at="2024-10-09T04:54:32 GST" name="Test" finished-at="2024-10-09T04:56:25 GST" duration-ms="113741">
+      <class name="qa.tests.Testcases">
+        <test-method is-config="true" signature="beforetestmethod()[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:32 GST" name="beforetestmethod" finished-at="2024-10-09T04:54:32 GST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetestmethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:32 GST" name="beforemethodmethod" finished-at="2024-10-09T04:54:40 GST" duration-ms="8165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_001()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_001()[pri:1, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:40 GST" name="Testcase_001" finished-at="2024-10-09T04:54:44 GST" duration-ms="3863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_001 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:44 GST" name="aftermethod" finished-at="2024-10-09T04:54:44 GST" duration-ms="364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_001 status=SUCCESS method=Testcases.Testcase_001()[pri:1, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:44 GST" name="beforemethodmethod" finished-at="2024-10-09T04:54:49 GST" duration-ms="5233" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_002()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_002()[pri:2, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:49 GST" name="Testcase_002" finished-at="2024-10-09T04:54:59 GST" duration-ms="9940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_002 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:59 GST" name="aftermethod" finished-at="2024-10-09T04:55:00 GST" duration-ms="429" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_002 status=SUCCESS method=Testcases.Testcase_002()[pri:2, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:00 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:06 GST" duration-ms="6191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_003()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_003()[pri:3, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:06 GST" name="Testcase_003" finished-at="2024-10-09T04:55:08 GST" duration-ms="2359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_003 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:08 GST" name="aftermethod" finished-at="2024-10-09T04:55:09 GST" duration-ms="309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_003 status=SUCCESS method=Testcases.Testcase_003()[pri:3, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:09 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:14 GST" duration-ms="5616" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_004()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_004()[pri:4, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:14 GST" name="Testcase_004" finished-at="2024-10-09T04:55:17 GST" duration-ms="2518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_004 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:17 GST" name="aftermethod" finished-at="2024-10-09T04:55:17 GST" duration-ms="288" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_004 status=SUCCESS method=Testcases.Testcase_004()[pri:4, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:17 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:24 GST" duration-ms="6665" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_005()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_005()[pri:5, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:24 GST" name="Testcase_005" finished-at="2024-10-09T04:55:26 GST" duration-ms="2212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_005 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:26 GST" name="aftermethod" finished-at="2024-10-09T04:55:26 GST" duration-ms="294" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_005 status=SUCCESS method=Testcases.Testcase_005()[pri:5, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:26 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:31 GST" duration-ms="5255" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_006()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_006()[pri:6, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:31 GST" name="Testcase_006" finished-at="2024-10-09T04:55:34 GST" duration-ms="2314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_006 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:34 GST" name="aftermethod" finished-at="2024-10-09T04:55:34 GST" duration-ms="322" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_006 status=SUCCESS method=Testcases.Testcase_006()[pri:6, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:34 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:39 GST" duration-ms="4902" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_007()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_007()[pri:7, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:39 GST" name="Testcase_007" finished-at="2024-10-09T04:55:42 GST" duration-ms="2514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_007 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:42 GST" name="aftermethod" finished-at="2024-10-09T04:55:42 GST" duration-ms="307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_007 status=SUCCESS method=Testcases.Testcase_007()[pri:7, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:42 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:47 GST" duration-ms="5634" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_008()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_008()[pri:8, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:47 GST" name="Testcase_008" finished-at="2024-10-09T04:55:50 GST" duration-ms="2200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_008 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:50 GST" name="aftermethod" finished-at="2024-10-09T04:55:50 GST" duration-ms="360" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_008 status=SUCCESS method=Testcases.Testcase_008()[pri:8, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:50 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:56 GST" duration-ms="5968" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_9()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_9()[pri:9, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:56 GST" name="Testcase_9" finished-at="2024-10-09T04:55:59 GST" duration-ms="2888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_9 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:59 GST" name="aftermethod" finished-at="2024-10-09T04:55:59 GST" duration-ms="292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_9 status=SUCCESS method=Testcases.Testcase_9()[pri:9, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:59 GST" name="beforemethodmethod" finished-at="2024-10-09T04:56:06 GST" duration-ms="6329" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_10()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_10()[pri:10, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:06 GST" name="Testcase_10" finished-at="2024-10-09T04:56:08 GST" duration-ms="2625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_10 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:08 GST" name="aftermethod" finished-at="2024-10-09T04:56:08 GST" duration-ms="302" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_10 status=SUCCESS method=Testcases.Testcase_10()[pri:10, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:08 GST" name="beforemethodmethod" finished-at="2024-10-09T04:56:09 GST" duration-ms="994" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_11()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_11()[pri:11, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:09 GST" name="Testcase_11" finished-at="2024-10-09T04:56:17 GST" duration-ms="7348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_11 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:17 GST" name="aftermethod" finished-at="2024-10-09T04:56:17 GST" duration-ms="375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_11 status=SUCCESS method=Testcases.Testcase_11()[pri:11, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:17 GST" name="beforemethodmethod" finished-at="2024-10-09T04:56:22 GST" duration-ms="4843" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.tests.Testcases.Testcase_12()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodmethod -->
+        <test-method signature="Testcase_12()[pri:12, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:22 GST" name="Testcase_12" finished-at="2024-10-09T04:56:25 GST" duration-ms="2524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_12 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:25 GST" name="aftermethod" finished-at="2024-10-09T04:56:25 GST" duration-ms="292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testcase_12 status=SUCCESS method=Testcases.Testcase_12()[pri:12, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:25 GST" name="AfterTest" finished-at="2024-10-09T04:56:25 GST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- qa.tests.Testcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
