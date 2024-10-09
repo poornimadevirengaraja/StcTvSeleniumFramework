@@ -2,9 +2,9 @@ package PageObjets;
 
 public interface SelectYourCountryElements {
 	
-
+	// Elements of SelectYourCountry Page 	
 	String Bahrainbutton ="//img[@alt='bh']";
-	String ksabutton="//div[@id='sa-contry-flag']//img[@alt='sa']";
+	String ksabutton="//a[@id='sa']";
 	String Kuwaitbutton="//img[@alt='kw']";
 
 }

@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-09T04:54:32 GST" name="Suite" finished-at="2024-10-09T04:56:25 GST" duration-ms="113741">
+  <suite started-at="2024-10-10T02:47:15 GST" name="Suite" finished-at="2024-10-10T02:48:49 GST" duration-ms="93806">
     <groups>
     </groups>
-    <test started-at="2024-10-09T04:54:32 GST" name="Test" finished-at="2024-10-09T04:56:25 GST" duration-ms="113741">
+    <test started-at="2024-10-10T02:47:15 GST" name="Test" finished-at="2024-10-10T02:48:49 GST" duration-ms="93806">
       <class name="qa.tests.Testcases">
-        <test-method is-config="true" signature="beforetestmethod()[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:32 GST" name="beforetestmethod" finished-at="2024-10-09T04:54:32 GST" duration-ms="209" status="PASS">
+        <test-method is-config="true" signature="beforetestmethod()[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:15 GST" name="beforetestmethod" finished-at="2024-10-10T02:47:15 GST" duration-ms="205" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforetestmethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:32 GST" name="beforemethodmethod" finished-at="2024-10-09T04:54:40 GST" duration-ms="8165" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:15 GST" name="beforemethodmethod" finished-at="2024-10-10T02:47:22 GST" duration-ms="6803" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -20,29 +20,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_001()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase1_Bahrain_subscriptiontypesaredisplayed()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_001()[pri:1, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:40 GST" name="Testcase_001" finished-at="2024-10-09T04:54:44 GST" duration-ms="3863" status="PASS">
+        <test-method signature="Testcase1_Bahrain_subscriptiontypesaredisplayed()[pri:1, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:22 GST" name="Testcase1_Bahrain_subscriptiontypesaredisplayed" finished-at="2024-10-10T02:47:24 GST" duration-ms="1964" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_001 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:44 GST" name="aftermethod" finished-at="2024-10-09T04:54:44 GST" duration-ms="364" status="PASS">
+        </test-method> <!-- Testcase1_Bahrain_subscriptiontypesaredisplayed -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:24 GST" name="aftermethod" finished-at="2024-10-10T02:47:24 GST" duration-ms="370" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_001 status=SUCCESS method=Testcases.Testcase_001()[pri:1, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase1_Bahrain_subscriptiontypesaredisplayed status=SUCCESS method=Testcases.Testcase1_Bahrain_subscriptiontypesaredisplayed()[pri:1, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:44 GST" name="beforemethodmethod" finished-at="2024-10-09T04:54:49 GST" duration-ms="5233" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:24 GST" name="beforemethodmethod" finished-at="2024-10-10T02:47:30 GST" duration-ms="6108" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,29 +51,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_002()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase_2_Bahrain_validatesubsriptionTypes()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_002()[pri:2, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:49 GST" name="Testcase_002" finished-at="2024-10-09T04:54:59 GST" duration-ms="9940" status="PASS">
+        <test-method signature="Testcase_2_Bahrain_validatesubsriptionTypes()[pri:2, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:30 GST" name="Testcase_2_Bahrain_validatesubsriptionTypes" finished-at="2024-10-10T02:47:32 GST" duration-ms="1959" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_002 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:54:59 GST" name="aftermethod" finished-at="2024-10-09T04:55:00 GST" duration-ms="429" status="PASS">
+        </test-method> <!-- Testcase_2_Bahrain_validatesubsriptionTypes -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:32 GST" name="aftermethod" finished-at="2024-10-10T02:47:32 GST" duration-ms="252" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_002 status=SUCCESS method=Testcases.Testcase_002()[pri:2, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase_2_Bahrain_validatesubsriptionTypes status=SUCCESS method=Testcases.Testcase_2_Bahrain_validatesubsriptionTypes()[pri:2, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:00 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:06 GST" duration-ms="6191" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:32 GST" name="beforemethodmethod" finished-at="2024-10-10T02:47:38 GST" duration-ms="5379" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -82,29 +82,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_003()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase3_Bahrain_Validatesubscriptionprices()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_003()[pri:3, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:06 GST" name="Testcase_003" finished-at="2024-10-09T04:55:08 GST" duration-ms="2359" status="PASS">
+        <test-method signature="Testcase3_Bahrain_Validatesubscriptionprices()[pri:3, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:38 GST" name="Testcase3_Bahrain_Validatesubscriptionprices" finished-at="2024-10-10T02:47:40 GST" duration-ms="1917" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_003 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:08 GST" name="aftermethod" finished-at="2024-10-09T04:55:09 GST" duration-ms="309" status="PASS">
+        </test-method> <!-- Testcase3_Bahrain_Validatesubscriptionprices -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:40 GST" name="aftermethod" finished-at="2024-10-10T02:47:40 GST" duration-ms="256" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_003 status=SUCCESS method=Testcases.Testcase_003()[pri:3, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase3_Bahrain_Validatesubscriptionprices status=SUCCESS method=Testcases.Testcase3_Bahrain_Validatesubscriptionprices()[pri:3, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:09 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:14 GST" duration-ms="5616" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:40 GST" name="beforemethodmethod" finished-at="2024-10-10T02:47:45 GST" duration-ms="4747" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -113,29 +113,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_004()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase4_Bahrain_Validatesubsriptioncurrency()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_004()[pri:4, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:14 GST" name="Testcase_004" finished-at="2024-10-09T04:55:17 GST" duration-ms="2518" status="PASS">
+        <test-method signature="Testcase4_Bahrain_Validatesubsriptioncurrency()[pri:4, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:45 GST" name="Testcase4_Bahrain_Validatesubsriptioncurrency" finished-at="2024-10-10T02:47:47 GST" duration-ms="1917" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_004 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:17 GST" name="aftermethod" finished-at="2024-10-09T04:55:17 GST" duration-ms="288" status="PASS">
+        </test-method> <!-- Testcase4_Bahrain_Validatesubsriptioncurrency -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:47 GST" name="aftermethod" finished-at="2024-10-10T02:47:47 GST" duration-ms="245" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_004 status=SUCCESS method=Testcases.Testcase_004()[pri:4, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase4_Bahrain_Validatesubsriptioncurrency status=SUCCESS method=Testcases.Testcase4_Bahrain_Validatesubsriptioncurrency()[pri:4, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:17 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:24 GST" duration-ms="6665" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:47 GST" name="beforemethodmethod" finished-at="2024-10-10T02:47:53 GST" duration-ms="5709" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -144,29 +144,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_005()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase5_KSA_subscriptiontypesaredisplayed()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_005()[pri:5, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:24 GST" name="Testcase_005" finished-at="2024-10-09T04:55:26 GST" duration-ms="2212" status="PASS">
+        <test-method signature="Testcase5_KSA_subscriptiontypesaredisplayed()[pri:5, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:53 GST" name="Testcase5_KSA_subscriptiontypesaredisplayed" finished-at="2024-10-10T02:47:54 GST" duration-ms="1863" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_005 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:26 GST" name="aftermethod" finished-at="2024-10-09T04:55:26 GST" duration-ms="294" status="PASS">
+        </test-method> <!-- Testcase5_KSA_subscriptiontypesaredisplayed -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:54 GST" name="aftermethod" finished-at="2024-10-10T02:47:55 GST" duration-ms="230" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_005 status=SUCCESS method=Testcases.Testcase_005()[pri:5, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase5_KSA_subscriptiontypesaredisplayed status=SUCCESS method=Testcases.Testcase5_KSA_subscriptiontypesaredisplayed()[pri:5, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:26 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:31 GST" duration-ms="5255" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:47:55 GST" name="beforemethodmethod" finished-at="2024-10-10T02:48:01 GST" duration-ms="5920" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -175,29 +175,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_006()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase6_KSA_validatesubsriptionTypes()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_006()[pri:6, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:31 GST" name="Testcase_006" finished-at="2024-10-09T04:55:34 GST" duration-ms="2314" status="PASS">
+        <test-method signature="Testcase6_KSA_validatesubsriptionTypes()[pri:6, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:01 GST" name="Testcase6_KSA_validatesubsriptionTypes" finished-at="2024-10-10T02:48:03 GST" duration-ms="2066" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_006 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:34 GST" name="aftermethod" finished-at="2024-10-09T04:55:34 GST" duration-ms="322" status="PASS">
+        </test-method> <!-- Testcase6_KSA_validatesubsriptionTypes -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:03 GST" name="aftermethod" finished-at="2024-10-10T02:48:03 GST" duration-ms="219" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_006 status=SUCCESS method=Testcases.Testcase_006()[pri:6, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase6_KSA_validatesubsriptionTypes status=SUCCESS method=Testcases.Testcase6_KSA_validatesubsriptionTypes()[pri:6, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:34 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:39 GST" duration-ms="4902" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:03 GST" name="beforemethodmethod" finished-at="2024-10-10T02:48:08 GST" duration-ms="5570" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -206,29 +206,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_007()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase7_KSA_Validatesubscriptionprices()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_007()[pri:7, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:39 GST" name="Testcase_007" finished-at="2024-10-09T04:55:42 GST" duration-ms="2514" status="PASS">
+        <test-method signature="Testcase7_KSA_Validatesubscriptionprices()[pri:7, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:08 GST" name="Testcase7_KSA_Validatesubscriptionprices" finished-at="2024-10-10T02:48:11 GST" duration-ms="2071" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_007 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:42 GST" name="aftermethod" finished-at="2024-10-09T04:55:42 GST" duration-ms="307" status="PASS">
+        </test-method> <!-- Testcase7_KSA_Validatesubscriptionprices -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:11 GST" name="aftermethod" finished-at="2024-10-10T02:48:11 GST" duration-ms="230" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_007 status=SUCCESS method=Testcases.Testcase_007()[pri:7, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase7_KSA_Validatesubscriptionprices status=SUCCESS method=Testcases.Testcase7_KSA_Validatesubscriptionprices()[pri:7, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:42 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:47 GST" duration-ms="5634" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:11 GST" name="beforemethodmethod" finished-at="2024-10-10T02:48:16 GST" duration-ms="4855" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -237,29 +237,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_008()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase8_KSA_Validatesubsriptioncurrency()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_008()[pri:8, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:47 GST" name="Testcase_008" finished-at="2024-10-09T04:55:50 GST" duration-ms="2200" status="PASS">
+        <test-method signature="Testcase8_KSA_Validatesubsriptioncurrency()[pri:8, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:16 GST" name="Testcase8_KSA_Validatesubsriptioncurrency" finished-at="2024-10-10T02:48:16 GST" duration-ms="143" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_008 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:50 GST" name="aftermethod" finished-at="2024-10-09T04:55:50 GST" duration-ms="360" status="PASS">
+        </test-method> <!-- Testcase8_KSA_Validatesubsriptioncurrency -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:16 GST" name="aftermethod" finished-at="2024-10-10T02:48:16 GST" duration-ms="229" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_008 status=SUCCESS method=Testcases.Testcase_008()[pri:8, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase8_KSA_Validatesubsriptioncurrency status=SUCCESS method=Testcases.Testcase8_KSA_Validatesubsriptioncurrency()[pri:8, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:50 GST" name="beforemethodmethod" finished-at="2024-10-09T04:55:56 GST" duration-ms="5968" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:16 GST" name="beforemethodmethod" finished-at="2024-10-10T02:48:17 GST" duration-ms="985" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -268,29 +268,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_9()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase9_Kuwait_subscriptiontypesaredisplayed()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_9()[pri:9, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:56 GST" name="Testcase_9" finished-at="2024-10-09T04:55:59 GST" duration-ms="2888" status="PASS">
+        <test-method signature="Testcase9_Kuwait_subscriptiontypesaredisplayed()[pri:9, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:17 GST" name="Testcase9_Kuwait_subscriptiontypesaredisplayed" finished-at="2024-10-10T02:48:25 GST" duration-ms="7864" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_9 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:59 GST" name="aftermethod" finished-at="2024-10-09T04:55:59 GST" duration-ms="292" status="PASS">
+        </test-method> <!-- Testcase9_Kuwait_subscriptiontypesaredisplayed -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:25 GST" name="aftermethod" finished-at="2024-10-10T02:48:25 GST" duration-ms="256" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_9 status=SUCCESS method=Testcases.Testcase_9()[pri:9, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase9_Kuwait_subscriptiontypesaredisplayed status=SUCCESS method=Testcases.Testcase9_Kuwait_subscriptiontypesaredisplayed()[pri:9, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:55:59 GST" name="beforemethodmethod" finished-at="2024-10-09T04:56:06 GST" duration-ms="6329" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:25 GST" name="beforemethodmethod" finished-at="2024-10-10T02:48:26 GST" duration-ms="1020" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -299,29 +299,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_10()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase_10_Kuwait_validatesubsriptionTypes()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_10()[pri:10, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:06 GST" name="Testcase_10" finished-at="2024-10-09T04:56:08 GST" duration-ms="2625" status="PASS">
+        <test-method signature="Testcase_10_Kuwait_validatesubsriptionTypes()[pri:10, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:26 GST" name="Testcase_10_Kuwait_validatesubsriptionTypes" finished-at="2024-10-10T02:48:33 GST" duration-ms="6677" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_10 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:08 GST" name="aftermethod" finished-at="2024-10-09T04:56:08 GST" duration-ms="302" status="PASS">
+        </test-method> <!-- Testcase_10_Kuwait_validatesubsriptionTypes -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:33 GST" name="aftermethod" finished-at="2024-10-10T02:48:33 GST" duration-ms="265" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_10 status=SUCCESS method=Testcases.Testcase_10()[pri:10, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase_10_Kuwait_validatesubsriptionTypes status=SUCCESS method=Testcases.Testcase_10_Kuwait_validatesubsriptionTypes()[pri:10, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:08 GST" name="beforemethodmethod" finished-at="2024-10-09T04:56:09 GST" duration-ms="994" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:33 GST" name="beforemethodmethod" finished-at="2024-10-10T02:48:34 GST" duration-ms="887" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -330,29 +330,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_11()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase11_Kuwait_Validatesubscriptionprices()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_11()[pri:11, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:09 GST" name="Testcase_11" finished-at="2024-10-09T04:56:17 GST" duration-ms="7348" status="PASS">
+        <test-method signature="Testcase11_Kuwait_Validatesubscriptionprices()[pri:11, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:34 GST" name="Testcase11_Kuwait_Validatesubscriptionprices" finished-at="2024-10-10T02:48:40 GST" duration-ms="6177" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_11 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:17 GST" name="aftermethod" finished-at="2024-10-09T04:56:17 GST" duration-ms="375" status="PASS">
+        </test-method> <!-- Testcase11_Kuwait_Validatesubscriptionprices -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:40 GST" name="aftermethod" finished-at="2024-10-10T02:48:40 GST" duration-ms="244" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_11 status=SUCCESS method=Testcases.Testcase_11()[pri:11, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase11_Kuwait_Validatesubscriptionprices status=SUCCESS method=Testcases.Testcase11_Kuwait_Validatesubscriptionprices()[pri:11, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:17 GST" name="beforemethodmethod" finished-at="2024-10-09T04:56:22 GST" duration-ms="4843" status="PASS">
+        <test-method is-config="true" signature="beforemethodmethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:40 GST" name="beforemethodmethod" finished-at="2024-10-10T02:48:46 GST" duration-ms="5426" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -361,29 +361,29 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void qa.tests.Testcases.Testcase_12()]]>
+                <![CDATA[public void qa.tests.Testcases.Testcase12_Kuwait_Validatesubsriptioncurrency()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethodmethod -->
-        <test-method signature="Testcase_12()[pri:12, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:22 GST" name="Testcase_12" finished-at="2024-10-09T04:56:25 GST" duration-ms="2524" status="PASS">
+        <test-method signature="Testcase12_Kuwait_Validatesubsriptioncurrency()[pri:12, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:46 GST" name="Testcase12_Kuwait_Validatesubsriptioncurrency" finished-at="2024-10-10T02:48:48 GST" duration-ms="2162" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase_12 -->
-        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:25 GST" name="aftermethod" finished-at="2024-10-09T04:56:25 GST" duration-ms="292" status="PASS">
+        </test-method> <!-- Testcase12_Kuwait_Validatesubsriptioncurrency -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:48 GST" name="aftermethod" finished-at="2024-10-10T02:48:48 GST" duration-ms="235" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Testcase_12 status=SUCCESS method=Testcases.Testcase_12()[pri:12, instance:qa.tests.Testcases@4d0d9fe7] output={null}]]]>
+                <![CDATA[[TestResult name=Testcase12_Kuwait_Validatesubsriptioncurrency status=SUCCESS method=Testcases.Testcase12_Kuwait_Validatesubsriptioncurrency()[pri:12, instance:qa.tests.Testcases@4c163e3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="AfterTest()[pri:0, instance:qa.tests.Testcases@4d0d9fe7]" started-at="2024-10-09T04:56:25 GST" name="AfterTest" finished-at="2024-10-09T04:56:25 GST" duration-ms="434" status="PASS">
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:qa.tests.Testcases@4c163e3]" started-at="2024-10-10T02:48:48 GST" name="AfterTest" finished-at="2024-10-10T02:48:49 GST" duration-ms="315" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterTest -->

@@ -5,11 +5,22 @@
     <classes>
       <class name="qa.tests.Testcases">
         <methods>
-          <include name="aftermethod"/>
           <include name="beforemethodmethod"/>
-          <include name="Testcase_004"/>
+          <include name="Testcase4_Bahrain_Validatesubsriptioncurrency"/>
           <include name="AfterTest"/>
+          <include name="Testcase12_Kuwait_Validatesubsriptioncurrency"/>
+          <include name="Testcase11_Kuwait_Validatesubscriptionprices"/>
+          <include name="Testcase8_KSA_Validatesubsriptioncurrency"/>
+          <include name="Testcase6_KSA_validatesubsriptionTypes"/>
+          <include name="Testcase7_KSA_Validatesubscriptionprices"/>
+          <include name="aftermethod"/>
+          <include name="Testcase1_Bahrain_subscriptiontypesaredisplayed"/>
+          <include name="Testcase9_Kuwait_subscriptiontypesaredisplayed"/>
+          <include name="Testcase_2_Bahrain_validatesubsriptionTypes"/>
           <include name="beforetestmethod"/>
+          <include name="Testcase_10_Kuwait_validatesubsriptionTypes"/>
+          <include name="Testcase5_KSA_subscriptiontypesaredisplayed"/>
+          <include name="Testcase3_Bahrain_Validatesubscriptionprices"/>
         </methods>
       </class> <!-- qa.tests.Testcases -->
     </classes>

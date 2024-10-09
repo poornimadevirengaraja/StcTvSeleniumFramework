@@ -66,8 +66,8 @@ public class BaseTest {
 		logger = extent.createTest(testMethod.getName());
 		setupdriver(browser);
 		driver.manage().window().maximize();
-		System.out.println(utils.Constants.url);
-		driver.get(utils.Constants.url);
+		System.out.println(utils.BaseConstants.url);
+		driver.get(utils.BaseConstants.url);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 	}
 

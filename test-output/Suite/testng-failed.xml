@@ -9,11 +9,13 @@
     <classes>
       <class name="qa.tests.Testcases">
         <methods>
+          <include name="Testcase6_KSA_validatesubsriptionTypes"/>
+          <include name="Testcase7_KSA_Validatesubscriptionprices"/>
           <include name="aftermethod"/>
           <include name="beforemethodmethod"/>
           <include name="AfterTest"/>
-          <include name="Testcase_006"/>
           <include name="beforetestmethod"/>
+          <include name="Testcase5_KSA_subscriptiontypesaredisplayed"/>
         </methods>
       </class> <!-- qa.tests.Testcases -->
     </classes>
